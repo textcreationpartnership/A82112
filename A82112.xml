@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of Sir Iohn Hothams proceedings at Hull. And how to prevent an army comming against the same, he hath drowned foure miles round about the towne. VVhereby he stands in opposition against all forces whatsoever, in defence of the same. As also a relation how the county of Lincolne hath sent in to their reliefe fifteene carts loaden with victuall, Iuly 5. 1642. Ordered that this be printed. Hen. Elsyng Cler. Par. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82112</idno>
+            <idno type="STC">Wing D623</idno>
+            <idno type="STC">Thomason E154_31</idno>
+            <idno type="STC">ESTC R1992</idno>
+            <idno type="EEBO-CITATION">99860776</idno>
+            <idno type="PROQUEST">99860776</idno>
+            <idno type="VID">156835</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82112)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156835)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E154[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of Sir Iohn Hothams proceedings at Hull. And how to prevent an army comming against the same, he hath drowned foure miles round about the towne. VVhereby he stands in opposition against all forces whatsoever, in defence of the same. As also a relation how the county of Lincolne hath sent in to their reliefe fifteene carts loaden with victuall, Iuly 5. 1642. Ordered that this be printed. Hen. Elsyng Cler. Par. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly 8. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hotham, John, --  Sir, d. 1645 Jan. 2.</term>
+               <term>Hull (England) --  History --  Siege, 1642 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156835:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF SIR IOHN HOTHAMS Proceedings AT HVLL.</p>
+            <p>And how to prevent an Army comming a<g ref="char:EOLhyphen"/>gainſt the ſame, he hath drowned foure miles round about the Towne.</p>
+            <p>VVhereby he ſtands in oppoſition againſt all forces whatſoever, in defence of the ſame.</p>
+            <p>As alſo a Relation how the County of <hi>Lin<g ref="char:EOLhyphen"/>colne</hi> hath ſent in to their reliefe fifteene Carts loaden with victuall, Iuly 5. 1642.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this be printed.</p>
+                        <closer>
+                           <signed>Hen. Elſyng Cler. Par. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> printed for <hi>George Thomas.</hi> Iuly 8. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156835:2"/>
+            <pb facs="tcp:156835:2"/>
+            <head>More ſtrange Newes from <hi>Hull.</hi>
+            </head>
+            <head type="sub">Being a true Relation of a mar<g ref="char:EOLhyphen"/>ching towards <hi>Hull</hi> with a thouſand Men.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Uch hath been the Malignancy of evill affected perſons about his Majeſtie, that they have under many faire pretences, in defence of his perſon, and againſt all, as they ſay, that have ſtood in defiance of the Lawes of the Land, againſt the Kings Majeſty, which they have very contemptuouſly, and againſt both the Houſes of Parliament, the City of London, and in fine all parts of the Kingdome, who are op<g ref="char:EOLhyphen"/>poſers to their ſo cruell and witched Tyranny, which if not prevented by the great mercy of God, wee are like to undergoe the hazard of all that is deareſt unto us; ſome ill affected perſons have been ſo obvious to the good of their Coun<g ref="char:EOLhyphen"/>trey,
+<pb facs="tcp:156835:3"/>which hath a long time flouriſhed in gr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> peace and Tranquility, which now is expoſed to the hazard of ruine: they have ſent to the Lord <hi>Digby,</hi> the Lord <hi>Finch, Windebancke, Piercy,</hi> and <hi>Iermine,</hi> who are neer to Yorke to fight, as they ſay, for their King, although tis probable they have ſince their beginning of their promotion to preferment been the chiefe diſturbers and raiſers of this combuſtion, which hath already begun, and doth daily encreaſe, to the terror and affrightment of all his Majeſties good ſubjects: They are now grown to ſo inſolent a head, and ſo bold aſpiring thoughts of honour and greatneſſe, that they have wholly expoſed themſelves to all danger whatſo<g ref="char:EOLhyphen"/>ever, ſo for their owne private ends, though with the ruining of this Kingdome, they gaine their deſires, they have already, as making no doubt but to bring all men under their girdles, and to bee at the commands under a Tyrannicall Government, diſpoſed of all mens goods which they bare moſt grudge to, and eſpecially the Parliament men, their goods and Lands have they ſhared, and moſt part of the City of London by nomination of their names, ſwearing with bitter and damnable oathes, damne and ſink them, they will have their ſwords ſheathed in the deareſt heart bloods of all thoſe men whom they tearme Round-heads: and in this manner beganne they their divelliſh deſigne, ſeeing ſo many ſtratagems of their wicked inven<g ref="char:EOLhyphen"/>tions, to be fruſtrate of that which they expected
+<pb facs="tcp:156835:3"/>the event would have beene, with a great deale of bloodſhed of their enemies; but it hath fallen con<g ref="char:EOLhyphen"/>tray, by the great mercy of God, as hath plain<g ref="char:EOLhyphen"/>ly appe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red by their dealing in Lancaſter, Leice<g ref="char:EOLhyphen"/>ſter, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orke, a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d new Caſtle, and alſo many other adjoyning Counties.</p>
+            <p>Yet for all theſe, their failing in their expectati<g ref="char:EOLhyphen"/>on, the Divill the arch enemy to mankinde, hath not left their thoughts free from conſpiracy againſt their Countrey, as this week appeared by their de<g ref="char:EOLhyphen"/>ſigne againſt Sir <hi>Iohn Hotham,</hi> and to have taken the whole Towne of Hull, and to that end came 1000. ſtrong marching neare to the Towne, to the terror and affrightment of all the neighbouring places, but was by none oppoſed, for they mar<g ref="char:EOLhyphen"/>ched not altogether, but in ſeverall Troopes for feare of any oppoſition, and was to have met neere the Towne of Hull, where it was by them inten<g ref="char:EOLhyphen"/>ded to have trenched the Towne round, and to have taken whom they thought good, and to have diſpoſed of them at their pleaſure, but ſo it pleaſed the omnipotent providence of God, that they were diſcovered by Sir <hi>Iohn Hotham,</hi> and ſoone diſcom<g ref="char:EOLhyphen"/>fited by his drowning foure miles round about Hull, which the Cavilleers ſoone perceiving, with a great deale of amazement, ran immediately ſome one way, ſome another, ſome thinking it were the immediate hand of God to puniſh this their hai<g ref="char:EOLhyphen"/>nous offence, others ſwearing damne and ſinke them yet to be revenged without the wonderfull
+<pb facs="tcp:156835:4"/>mercy of God, they had been both damn'd and ſinked into the water, which almoſt flowed upon them.</p>
+            <p>It is not yet certainly known whether any were drowned or no by reaſon of their fleeing one from another in ſuch a manner of diſtraction, but it is thought that many of them never went to Yorke yet, nor never intend more to goe, ſeeing nothing but deſtruction on all thoſe that ſeeke the deſolati<g ref="char:EOLhyphen"/>on of a whole Kingdome, which God in his good time open all their eyes that they may ſee their own deſtruction either in this world or the world to come, deſiring alſo a happy union betwixt his Majeſty and his high Court of Parliament, and give him a ſight of theſe, and all his wicked counſellors, and the utter deſolation which come by a cruell warre, of which we have had a reaſonable foreſight of our neighbouring Coun<g ref="char:EOLhyphen"/>tries of late, Germany and others, which loſſe there will not be recovered in a long time, if it pleaſe God to ſend peace.</p>
+            <p>Such hath been the love of the County of Lin<g ref="char:EOLhyphen"/>colne to aſſiſt the good cauſe of Sir <hi>Iohn Hotham</hi> that ſince this aſſault upon <hi>Hull,</hi> they have ſent in fifteene Cart load of victuall, with promiſes of their beſt aid and aſſiſtance with their lives and e<g ref="char:EOLhyphen"/>ſtates to ſupport him, againſt any oppoſition.</p>
+            <p>Whereas ſeverall Proclamations, Declarati<g ref="char:EOLhyphen"/>ons and Papers, in formes of Proclamations,
+<pb facs="tcp:156835:4"/>have iſſued in his Majeſties name, comman<g ref="char:EOLhyphen"/>ding Parſons, Vicars, Curates, Sheriffes, Majors, B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yliffes and other Officers, to publiſh and pro<g ref="char:EOLhyphen"/>claime the ſame, being contrary to Law, and to divers O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ders, Ordinances and Declarations of both Houſes.</p>
+            <p>
+               <hi>Be it Ordered and declared by the Lords and Com<g ref="char:EOLhyphen"/>mons in P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rl<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, That no <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff, Major, Bayliff, Parſon V<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>car Curate, or other Officer, ſhall from henceforth pub<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſh or procla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, or cauſe to be proclai<g ref="char:EOLhyphen"/>m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> publ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhed, any ſuch <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rocl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mations, Declara<g ref="char:EOLhyphen"/>tions or Papers which are or ſhall be contrary to any O<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r, O<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nance, or Declarations of the ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id Houſes of Parliament, or tending to the ſcandall or d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rog<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion of their pro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngs, but ſhall uſe all lawfull waies and means to reſtra<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n and hinder the proclai<g ref="char:EOLhyphen"/>ming and publiſhing thereof. And all Sheriffs, Ma<g ref="char:EOLhyphen"/>jors Bayl ffes, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arſons, Vicars and Curates, or other Officers that have forborn or refuſed, or ſhall forbear or refuſe to publ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh or pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>claim any ſuch Proclamati<g ref="char:EOLhyphen"/>ons D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ations, or P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pers as aforeſaid, or have or ſhall hinder the publication thereof, ſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll bee pro<g ref="char:EOLhyphen"/>tected by the power and authority of both Houſes of Parliament.</hi>
+            </p>
+            <div type="license">
+               <p>Ordered by the Commons in Parlia<g ref="char:EOLhyphen"/>ment, That this be forthwith Prin<g ref="char:EOLhyphen"/>ted and Publiſhed.</p>
+               <closer>
+                  <signed>Hen. Elſing. Cler. Par. D. Com.</signed>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
